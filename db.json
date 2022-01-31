@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 1200,
+      "quantity": 100,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "test",
+      "price": "50",
+      "quantity": "12",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "test new produit",
+      "price": "18",
+      "quantity": "20",
+      "selected": true,
+      "available": true,
+      "id": 4
+    }
+  ]
+}
